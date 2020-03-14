@@ -1,0 +1,8 @@
+7 20
+xxxxxxxxxxxxxxxxxxxx
+x--+++-------------x
+x-x--x--xo-x-+x--x-x
+x--+-------+-----+-x
+x-x--x-+x--x+-x--x-x
+x+------+----------x
+xxxxxxxxxxxxxxxxxxxx
